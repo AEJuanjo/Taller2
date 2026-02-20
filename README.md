@@ -1,11 +1,11 @@
 # Taller de Lógica de Programación
-# Integrantes 
+# 🫂 Integrantes 
 - Juan Andres Vallejo 
 - Juan José Alzate
 - Luis Leonardo Rodriguez
 ## Manejo de Variables
 
-## Descripción
+## 📋 Descripción
 
 Este proyecto tiene como objetivo comprender los conceptos fundamentales de las variables en programación, incluyendo su declaración, inicialización y reasignación.
 
@@ -13,7 +13,7 @@ Se desarrolló un ejercicio práctico donde se crean 20 variables con distintos 
 
 ---
 
-## Objetivos
+## 👽 Objetivos
 
 - Entender qué es una variable.
 - Diferenciar entre declaración e inicialización.
